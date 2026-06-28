@@ -21,11 +21,10 @@ Some of the tasks that are related to defensive security include:
 - Threat Intelligence — collects information to help the company better prepare against potential adversaries.
 - Digital Forensics and Incident Response (DFIR) — It keeps investigating all the parts of the system to make sure there is no threat and in case of a threat/incident it responds properly
 - Malware Analysis — Monitors, Prevents, Detect and Respond to any kind of virus attack (i.e trojan, ransomware etc) it is done by running the malware in a controlled environment and monitoring its activities
-- —
 
 ## Tools/commands used
 
-- `SIEM` — it is an imaginary security tool that logs all the things that happen on the network and detects any malicious activity and flags it ( used in the practical )
+- `SIEM` — it is a simulated SIEM interface (security tool) that logs all the things that happen on the network and detects any malicious activity and flags it ( used in the practical )
 
 ## Something that confused me at first
 

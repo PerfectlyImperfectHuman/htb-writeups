@@ -1,7 +1,7 @@
 # Room: What is Networking?
 
 **Module:** Module 2 — Networking Fundamentals
-**Date completed:** Month DD, YYYY
+**Date completed:** June 16, 2026
 
 ## What this room covers
 
@@ -16,11 +16,6 @@ It gives us an introduction of networking and the internet and then tells us how
 - Public Network — It is basically a network that is freely connected to the internet and can be accessed easily (like at work)
 - Private Network — It is the type of network that we use at home and each device connected has a different private IP but the same Public IP
 - PING — it basically used the ICMP to send and receive packets and tells us about the status of a IP Address and it is a very important and fundamental tool in networking
-- —
-- —
-- —
-- —
-- —
 
 ## Tools/commands used
 

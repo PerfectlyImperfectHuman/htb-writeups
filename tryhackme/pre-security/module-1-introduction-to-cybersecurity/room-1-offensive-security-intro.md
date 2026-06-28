@@ -28,4 +28,4 @@ A hacker can get admin access if the admin page is not secured properly. It also
 
 ## Next steps / what I want to explore more
 
-The practical was fun and I want to try something like that in real life like use gobuster command on a real website
+The practical was fun and I want to try something like that in real life like use gobuster command on a vulnerable website that I create
