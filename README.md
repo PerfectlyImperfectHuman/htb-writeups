@@ -9,7 +9,9 @@ My ongoing notes, writeups, and progress as I learn cybersecurity from the groun
 ## Progress
 
 - ✅ TryHackMe Pre-Security — Module 1
-- 🔄 TryHackMe Pre-Security — Module 2 (in progress)
+- ✅ TryHackMe Pre-Security — Module 2
+- ✅ TryHackMe Pre-Security — Module 3
+- 🔄 TryHackMe Pre-Security — Module 4 (in progress)
 
 ## About
 
